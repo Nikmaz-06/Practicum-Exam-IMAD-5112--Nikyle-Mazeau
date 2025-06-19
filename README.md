@@ -10,5 +10,7 @@ This project is a Music playlist managing app that will allow you to easily mana
 ## Screenshots/Images of the app running
 
 Below are some screenshots of the app running on the emulator if you are still confused or unsure
+![Flashcard App Screenshot](Screenshot_2025.05.26_14.40.28.967.png)
+![Music Playlist App Screenshot](
   
 
