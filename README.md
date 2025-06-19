@@ -6,5 +6,9 @@ This project is a Music playlist managing app that will allow you to easily mana
 
 * Helps manage your playlists and songs in a neat and orderly fashion.
 * Add as many songs as you want to your playlists as there is no limit!
+
+## Screenshots/Images of the app running
+
+Below are some screenshots of the app running on the emulator if you are still confused or unsure
   
 
